@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "22LVNJ8thM3jNmfSSo+zKXfXvHdR9NF92tezfQH5xaK+Ov93flPcJuk7gUkkxGlOZc5qxYSCgVhDHe6vUmAxdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mahir.tuzel\\Desktop\\Mahir_WA_Rules\\CustomRules\\CustomRules\\CustomRules.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mahir.tuzel\\.nuget\\packages\\uipath.activities.api\\22.4.1\\uipath.activities.api.22.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

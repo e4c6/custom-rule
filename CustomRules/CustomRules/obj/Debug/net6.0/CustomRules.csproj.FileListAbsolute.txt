@@ -1,0 +1,12 @@
+C:\Users\mahir.tuzel\Desktop\Mahir_WA_Rules\CustomRules\CustomRules\bin\Debug\net6.0\CustomRules.deps.json
+C:\Users\mahir.tuzel\Desktop\Mahir_WA_Rules\CustomRules\CustomRules\bin\Debug\net6.0\CustomRules.dll
+C:\Users\mahir.tuzel\Desktop\Mahir_WA_Rules\CustomRules\CustomRules\bin\Debug\net6.0\CustomRules.pdb
+C:\Users\mahir.tuzel\Desktop\Mahir_WA_Rules\CustomRules\CustomRules\obj\Debug\net6.0\CustomRules.csproj.AssemblyReference.cache
+C:\Users\mahir.tuzel\Desktop\Mahir_WA_Rules\CustomRules\CustomRules\obj\Debug\net6.0\CustomRules.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahir.tuzel\Desktop\Mahir_WA_Rules\CustomRules\CustomRules\obj\Debug\net6.0\CustomRules.AssemblyInfoInputs.cache
+C:\Users\mahir.tuzel\Desktop\Mahir_WA_Rules\CustomRules\CustomRules\obj\Debug\net6.0\CustomRules.AssemblyInfo.cs
+C:\Users\mahir.tuzel\Desktop\Mahir_WA_Rules\CustomRules\CustomRules\obj\Debug\net6.0\CustomRules.csproj.CoreCompileInputs.cache
+C:\Users\mahir.tuzel\Desktop\Mahir_WA_Rules\CustomRules\CustomRules\obj\Debug\net6.0\CustomRules.dll
+C:\Users\mahir.tuzel\Desktop\Mahir_WA_Rules\CustomRules\CustomRules\obj\Debug\net6.0\refint\CustomRules.dll
+C:\Users\mahir.tuzel\Desktop\Mahir_WA_Rules\CustomRules\CustomRules\obj\Debug\net6.0\CustomRules.pdb
+C:\Users\mahir.tuzel\Desktop\Mahir_WA_Rules\CustomRules\CustomRules\obj\Debug\net6.0\ref\CustomRules.dll

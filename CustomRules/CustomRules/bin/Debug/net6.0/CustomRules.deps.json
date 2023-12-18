@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CustomRules/1.0.0": {
+        "dependencies": {
+          "UiPath.Activities.Api": "22.4.1"
+        },
+        "runtime": {
+          "CustomRules.dll": {}
+        }
+      },
+      "UiPath.Activities.Api/22.4.1": {
+        "runtime": {
+          "lib/net6.0/UiPath.Activities.Api.Base.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/net6.0/UiPath.Api.Base.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/net6.0/UiPath.Robot.Activities.Api.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/net6.0/UiPath.Studio.Activities.Api.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/net6.0/UiPath.Studio.Api.Base.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CustomRules/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UiPath.Activities.Api/22.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2FyqwodmixwOAXVuDUZbWJlYqKxL/rI1HJL0Chx/3j+mCpyrAV6cu+tvXJ9fdlElixXuj225s2hBATEWVilh2g==",
+      "path": "uipath.activities.api/22.4.1",
+      "hashPath": "uipath.activities.api.22.4.1.nupkg.sha512"
+    }
+  }
+}

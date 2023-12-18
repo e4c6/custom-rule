@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mahir.tuzel\\Desktop\\Mahir_WA_Rules\\CustomRules\\CustomRules\\CustomRules.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mahir.tuzel\\Desktop\\Mahir_WA_Rules\\CustomRules\\CustomRules\\CustomRules.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mahir.tuzel\\Desktop\\Mahir_WA_Rules\\CustomRules\\CustomRules\\CustomRules.csproj",
+        "projectName": "CustomRules",
+        "projectPath": "C:\\Users\\mahir.tuzel\\Desktop\\Mahir_WA_Rules\\CustomRules\\CustomRules\\CustomRules.csproj",
+        "packagesPath": "C:\\Users\\mahir.tuzel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mahir.tuzel\\Desktop\\Mahir_WA_Rules\\CustomRules\\CustomRules\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mahir.tuzel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://gallery.uipath.com/api/v2": {},
+          "https://gallery.uipath.com/api/v2": {},
+          "https://pkgs.dev.azure.com/uipath/Public.Feeds/_packaging/UiPath-Official/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "UiPath.Activities.Api": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[22.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.316\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
